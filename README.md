@@ -1,22 +1,17 @@
-### Hi there 👋
+### Welcome to my profile!👋  I'm Tugce. 
 
-<!--
-**tugceulucn/tugceulucn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ..
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+📝 I'm a passionate Software Engineering student at Istinye University. 🚀 My journey started when I chose the Software Engineering department. Throughout my university life, I've dedicated myself to honing my coding skills, participating in TEKNOFEST and international competitions, and engaging in various software-related activities. <b>Now I am full focus on software, join my journey!<b>
+- 🌱 I'm new to Github.
+- 🔭 A senior software engineering student. 
+- 👨‍💻 Currently interested in artificial intelligence.
 - ⚡ Fun fact: ...
+- 📫 How to reach me fatmatugcelcn@gmail.com
 
-![Instagram]([https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))(https://www.instagram.com/tugceulcn__?igsh=MWRoaWc4eDdydmlkNw==)
+📝 Welcome to my profile! I'm Tugce. I am a Software Engineering student at Istinye University.  Throughout my university life, I voluntarily prepared for TEKNOFEST and international competitions and participated in activities. Now I am full focus on software.
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatmatugceulucan/)
+Contact With Me!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tugceulcn__?igsh=MWRoaWc4eDdydmlkNw==)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatmatugceulucan/)
 
-
+Thanks for stopping by, and happy coding! 🎉
 
